@@ -55,6 +55,9 @@ After you've verified this, you can ask for help on the `#help` channel. Make su
 
 # Questions Regarding Botania
 
+**Q: Can you bring Botania to Fabric?**  
+**A:** Not as an official endeavor (yet), but there's a small team working on it at their pace. Please don't ask for updates on it as it's not something that's supported yet.
+
 **Q: What's the best generating flower to use?**  
 **A:** All flowers are valid for usage and will output roughly equal to the amount of work necessary to automate them (measured for vanilla+botania). Feel free to pick any that tickles your fancy.
 
@@ -98,6 +101,9 @@ After you've verified this, you can ask for help on the `#help` channel. Make su
 ---
 
 # Questions Regarding Patchouli
+
+**Q: Is Patchouli available on Fabric?**  
+**A:** [Yes, it is](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric)
 
 **Q: How do you refresh the book without closing the game?**  
 **A:** Shift-click the pencil icon in the home page. (The pencil only shows in creative)
