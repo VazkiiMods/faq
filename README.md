@@ -56,7 +56,7 @@ After you've verified this, you can ask for help on the `#help` channel. Make su
 # Questions Regarding Botania
 
 **Q: Can you bring Botania to Fabric?**  
-**A:** Not as an official endeavor (yet), but there's a small team working on it at their pace. Please don't ask for updates on it as it's not something that's supported yet.
+**A:** Botania is available on both [Forge](https://www.curseforge.com/minecraft/mc-mods/botania) and [Fabric](https://www.curseforge.com/minecraft/mc-mods/botania-fabric/)
 
 **Q: What's the best generating flower to use?**  
 **A:** All flowers are valid for usage and will output roughly equal to the amount of work necessary to automate them (measured for vanilla+botania). Feel free to pick any that tickles your fancy.
@@ -150,11 +150,8 @@ After you've verified this, you can ask for help on the `#help` channel. Make su
 **Q: How do I get my Twitch Subscriber role?**  
 **A:** This is handled automatically by a bot that Twitch manages. You have to connect your Discord account to your Twitch account through your User Settings. After doing that, your role should be given to you in the next hour or so.
 
-**Q: What's #starboard?**  
-**A:** Starboard is where the best messages posted on the server end up. Any message that's reacted to with ⭐ 6 or more times is copied there. You can also type `star leaderboard` to see who has the most stars.
-
-**Q: What's #super_loss_zone?**  
-**A:** It's where you can throw your absolute spiciest memes (within reason and server rules). You can only post every 6 hours and you can't see old memes, ensuring your spice is exclusive. Why, you ask? Why not?
+**Q: What's #taterboard?**  
+**A:** Taterboard is where the best messages posted on the server end up. Any message that's reacted to with :tater: 6 or more times is copied there. You can also use the slash command `/receivers` to see who has the most stars.
 
 **Q: How do you get the "Nerd" rank?**  
 **A:** The Nerd rank is manually given to Vazkii's friends, or otherwise noteworthy people. It's not a thing you can earn.
@@ -163,7 +160,7 @@ After you've verified this, you can ask for help on the `#help` channel. Make su
 **A:** We have a bot that automatically removes messages with banned words. YAGPDB.xyz should automatically DM you with what triggered the removal. Warnings expire after 12 hours, and you need to get a very large amount of them to get kicked, so don't worry about it.
 
 **Q: Why was I banned? Can I appeal it?**  
-**A:** The Vazkii's Mods discord server is an LGBT+ and general minority, friendly space. In order to keep it as such, problematic people are banned when noticed. There's currently no direct means to appeal your ban, but if you believe you understand why it was you were banned, and you're willing to better yourself, feel free to get in contact.
+**A:** The Vazkii's Mods discord server is an LGBT+ and minority-friendly space. In order to keep it as such, problematic people are banned when noticed. There's currently no direct means to appeal your ban, but if you believe you understand why it was you were banned, and you're willing to better yourself, feel free to get in contact.
 
 **Q: Why is Kamefrede such a jerk?**  
 **A:** Kamefrede is our local `#general` shitposter and should never be taken seriously. (for real he's a good person he means no harm)
